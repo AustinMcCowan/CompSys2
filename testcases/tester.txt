@@ -1,0 +1,32 @@
+#Dddddddddd
+begin
+banana;
+banana;
+banana;
+if ( banana == 3 ) then 
+begin
+banana 
+end 
+else 
+begin 
+banana = banana 
+end;
+if ( banana == 3 ) then 
+begin
+banana 
+end 
+else 
+begin 
+banana = banana 
+end;
+if ( banana == 3 ) then 
+begin
+banana 
+end 
+else 
+begin 
+banana = banana 
+end;
+rat (c,d,e, f[3], v(33, bacon));
+banana
+end

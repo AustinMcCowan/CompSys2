@@ -1,0 +1,19 @@
+#Dddddddddd
+begin
+while ( a + 2 > b * c - d )
+begin
+calculation = a + b * c;
+NoParamFuncCall;
+if ( c == b ) then
+begin
+c = c - b
+end
+else
+begin
+doNothing
+end;
+a = b + c;
+print ( help ) 
+end;
+print ( awesomeness ) 
+end

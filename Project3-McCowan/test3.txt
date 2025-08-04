@@ -1,0 +1,10 @@
+a=alloc(10); dump();
+b=alloc(10); dump();
+c=alloc(10); dump();
+d=alloc(10); dump();
+e=alloc(10); dump();
+f=alloc(10); dump();
+free(c); free(d); free(e);
+dump(); 
+compress();
+dump();

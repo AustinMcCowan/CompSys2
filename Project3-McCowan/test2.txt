@@ -1,0 +1,5 @@
+d=a; dump();
+d=b; dump();
+a=alloc(3); dump();
+a=d; dump(); 
+a=c; dump(); 
